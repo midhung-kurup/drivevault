@@ -7,7 +7,7 @@ void main() {
 
     expect(find.text('DRIVEVAULT'), findsOneWidget);
     expect(find.textContaining('FIND YOUR'), findsOneWidget);
-    expect(find.text('BMW M5'), findsOneWidget);
+    expect(find.text('BMW M4'), findsOneWidget);
     expect(find.text('Porsche 911'), findsOneWidget);
     expect(find.text('Ford Mustang'), findsOneWidget);
   });
