@@ -117,7 +117,7 @@ class _HomePageState extends State<HomePage> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const Text(
-                        'FIND YOUR\nDREAM RIDE.',
+                        'FIND YOUR\nNEXT RIDE.',
                         style: TextStyle(
                           fontSize: 54,
                           fontWeight: FontWeight.w900,
